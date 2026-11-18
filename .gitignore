@@ -1,0 +1,5 @@
+# اطلاعات واقعی دیتابیس هرگز commit نشود
+config.php
+.env
+.DS_Store
+*.log
